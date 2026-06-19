@@ -1,3 +1,16 @@
 h1 {
     color: purple;
 }
+#heading2 {
+    color:brown;
+}
+.headerstyle {
+    color: aquamarine;
+}
+.para {
+    border: 2px;
+    border-color: blue;
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+}
