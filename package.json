@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "Verifying my git set up\r check push and commit",
+  "homepage": "https://github.com/SanjanaS82/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/SanjanaS82/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjanaS82/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "Sanjana S",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
