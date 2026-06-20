@@ -38,13 +38,21 @@
     border: none;
 
 }
-.search_box {
-    border: 1px solid black;
-    padding: 10px 30px;
-    text-align: center;
-    margin-left: 400px;
-    margin-right: 400px;
+.search_box { 
+  border: 1px solid black; 
+  padding: 10px 30px; 
+  margin: 0 auto;
+  max-width: 500px;
+  text-align: left; /* Aligns the container content left */
 }
-.sug-wgt {
-    text-align: right;
+
+.sug-text {
+  display: inline-block;
+  width: 70%; /* Forces the text to take up most of the row */
+}
+
+.sug-wgt { 
+  display: inline-block;
+  width: 30%; /* Forces the weight to take up the rest */
+  text-align: right; /* Now right-align works perfectly */
 }
