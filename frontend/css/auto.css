@@ -1,0 +1,40 @@
+.pill {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.dot {
+    color: rgb(61, 161, 33);
+    position: absolute;
+    top: 7px;
+    right: 120px;
+    font-size: 25px;
+}
+.gear {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    font-size: 20px;
+}
+.main {
+    
+    text-align: center;
+    margin-top: 100px;
+}
+.sanj {
+    color: rgb(149, 11, 167);
+    font-size: larger;
+}
+.tagline {
+    color: rgb(121, 104, 130);
+}
+.search_bar {
+   border: 1px solid black;  
+   border-radius: 50px;
+   padding: 10px 30px;
+}
+#bar {
+    outline: none;
+    border: none;
+
+}
