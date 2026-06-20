@@ -38,3 +38,13 @@
     border: none;
 
 }
+.search_box {
+    border: 1px solid black;
+    padding: 10px 30px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.sug-wgt {
+    text-align: right;
+}
